@@ -1,6 +1,6 @@
 baseurl: "/"
 permalink: pretty
-title: "Jekyll Atlantic"
+title: "Talking Cinema Movie Reviews"
 collections_dir: collections
 markdown: kramdown
 highlighter: rouge
