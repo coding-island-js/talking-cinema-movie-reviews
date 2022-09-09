@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Jekyll Atlantic Theme
-heading: <em>Jekyll Tailwind</em> Starter Blog
-description: Atlantic is a beautiful Tailwind CSS theme for Jekyll. It shows best practices for using Tailwind with Jekyll.
+title: Talking Cinema Movie Reviews
+heading: <em>Talking Cinema</em> Movie Reviews
+description: Welcome to the Talking Cinema Podcast, the show that does a deep dive on movies we love.
 
 ---
