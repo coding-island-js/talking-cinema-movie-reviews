@@ -1,8 +1,12 @@
-sage_kirk:
-  name: 'Sage Kirk'
-  image: 'assets/images/author/sage-kirk.jpg'
-  twitter: '@zerostaticio'
-mike_vance:
-  name: 'Mike Vance'
-  image: 'assets/images/author/mike-vance.jpg'
-  twitter: '@zerostaticio'
+#sage_kirk:
+ # name: 'Sage Kirk'
+  #image: 'assets/images/author/sage-kirk.jpg'
+  #twitter: '@zerostaticio'
+#mike_vance:
+ # name: 'Mike Vance'
+  #image: 'assets/images/author/mike-vance.jpg'
+  #twitter: '@zerostaticio'
+coding_raj:
+  name: 'Coding Raj'
+  image: 'assets/images/author/codingraj.jpg'
+  twitter: '@codingraj'
