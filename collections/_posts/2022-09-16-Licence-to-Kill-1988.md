@@ -17,7 +17,7 @@ image: "../../assets/images/Licence-to-Kill/image.jpeg"
 
 ## Why I love this movie
 
-It’s a revenge movie, and I love revenge movies. And this is a different Bond movie. It’s darker than the other Bond movies. You could say that Skyfall is somewhat of a dark movie with a revenge element, but Licence to Kill is flat out a revenge movie.
+It’s a revenge movie, and I love revenge movies. And this is a different Bond movie. It’s darker than the other Bond movies. You could say that Skyfall is somewhat of a dark movie with a revenge element, but Licence to Kill is flat-out a revenge movie.
 
 And it’s a revenge movie, and this is a spoiler if you have been listening to this pod (we give spoilers), but Bond kills the villain at the end. No prison, have someone else kill him, or have the bad guy kill himself. Bond even tells the bad guy, Sanchez, why he is killing him. All the elements you need that are in a revenge movie, at least for my definition.
 
