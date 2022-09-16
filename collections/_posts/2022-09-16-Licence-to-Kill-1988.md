@@ -35,7 +35,7 @@ The scene with Q. Q is also in on this rouge mission too. He loves Bond. And he 
 
 Also, I love all the scenes with Benicio del Toro, who plays Dario - Sanchez’s henchman. Watching an actor play a small role in a movie before they get big is fun. And Del Toro has had a great career with The Usual Suspects, Snatch, Traffic (he won an oscar for that role), and Sicario.
 
-The drug scene is where they mix it with petrol or some solution.
+The drug scene is where they mix it with petrol or some solution. Pretty ingenious idea.
 
 ## Flaws
 
