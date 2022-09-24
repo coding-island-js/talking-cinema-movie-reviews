@@ -23,5 +23,6 @@
     "**/node_modules": true,
     "**/_site": true,
     "**/.jekyll-cache": true
-  }
+  },
+  "cSpell.words": ["webp"]
 }
