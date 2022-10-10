@@ -2,7 +2,7 @@ main:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Podcast"
+  - #name: "Podcast"
    # url: "https://podcast.talkingcinemapod.com/"
     url: <a href="https://podcast.talkingcinemapod.com/" target="_blank">Podcast</a>
     weight: 2
